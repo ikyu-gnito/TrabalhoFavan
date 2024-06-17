@@ -1,0 +1,41 @@
+﻿@model RegistroModel
+@{
+    ViewData["title"] = "Cadastrar novo registro";
+}
+
+<div class="container bg-dark p-5 rounded-5">
+    <div class="mb-5 text-center">
+        <h1 class="text-light">Novos cadastros</h1>
+    </div>
+<form method="post" asp-asp-controller="Registro" asp-action="Cadastrar"> 
+
+  <div class="mb-3">
+    <label for="Nome" class="form-label text-light">Nome :</label>
+    <input type="text" class="form-control" asp-for="Nome" id="Nome" placeholder="Informe o nome do novo cadastro">
+    
+</div>
+
+  <div class="mb-3">
+    <label for="Produto" class="form-label text-light">Produto</label>
+    <input type="text" class="form-control" asp-for="Produto" id="Produto" placeholder="Informe o produto a ser cadastrado">
+    
+  </div>
+
+  <div class="mb-3">
+    <label for="Email" class="form-label text-light">Email</label>
+    <input type="email" class="form-control" asp-for="Email" id="Email" placeholder="Informe o email da pessoa cadastrada">
+    
+  </div>
+
+  <div class="mb-3">
+    <label for="Data" class="form-label text-light">Data</label>
+    <input type="DateTime" class="form-control" asp-for="Data" id="Data" placeholder="Informe a data da compra para oficializar no cartório">
+  </div>
+
+  <div class="d-flex gap-5 mt-5">
+    <button type="submit" class="btn btn-success w-50">Adicionar</button>
+    <a class="btn btn-primary w-50" asp-controller="Registro" asp-action="Index">Voltar</a>
+</div>
+
+</form>
+</div>

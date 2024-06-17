@@ -1,0 +1,40 @@
+﻿@model IEnumerable<RegistroModel> 
+
+<div class="container">
+    <div class="d-flex justify-content-between align-itens-center mb-5">
+        <h1>Registro Geral</h1>
+        <a class="btn btn-success mx-2" asp-controller="Registro" asp-action="Cadastrar"><i class="bi bi-pen"></i> Cadastrar novo registro</a>
+    </div>
+
+<table id="Registros" class="table table-light table-hover mt-5">
+   <thead>
+    <tr>
+      <th scope="col">Nome</th>
+      <th scope="col">Produto</th>
+      <th scope="col">Email</th>
+      <th scope="col">Data</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+        
+        @if(Model != null)
+        {
+            @foreach(var registro in Model)
+            {
+                <tr>
+                  <th scope="row">@registro.Nome</th>
+                  <td>@registro.Produto</td>
+                  <td>@registro.Email</td>
+                  <td>@registro.Data</td>
+                  <td>
+                              <a asp-controller="Registro" asp-action="Editar" asp-route-id="@registro.Id" class="btn btn-warning mx-2"><i class="bi bi-pencil-square"></i> Editar</a>
+                                              <a asp-controller="Registro" asp-action="Excluir" asp-route-id="@registro.Id" class="btn btn-danger mx-2"><i class="bi bi-trash"></i> Excluir</a>
+                  </td>
+                </tr>
+            }
+        }
+       
+  </tbody>
+</table>
+</div>

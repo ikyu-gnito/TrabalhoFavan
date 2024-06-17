@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Cartorio_CRUD.props" />
+</Project>
