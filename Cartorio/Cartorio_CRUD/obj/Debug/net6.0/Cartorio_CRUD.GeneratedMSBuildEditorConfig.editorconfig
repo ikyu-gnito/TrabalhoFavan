@@ -9,53 +9,55 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Cartorio_CRUD
 build_property.RootNamespace = Cartorio_CRUD
-build_property.ProjectDir = C:\Users\User\Desktop\Crud\Cartorio_CRUD\Cartorio_CRUD\
+build_property.ProjectDir = C:\Users\artur\OneDrive\Documents\GitHub\TrabalhoFavan\Cartorio\Cartorio_CRUD\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\User\Desktop\Crud\Cartorio_CRUD\Cartorio_CRUD
+build_property.MSBuildProjectDirectory = C:\Users\artur\OneDrive\Documents\GitHub\TrabalhoFavan\Cartorio\Cartorio_CRUD
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/User/Desktop/Crud/Cartorio_CRUD/Cartorio_CRUD/Views/Home/Index.cshtml]
+[C:/Users/artur/OneDrive/Documents/GitHub/TrabalhoFavan/Cartorio/Cartorio_CRUD/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/Crud/Cartorio_CRUD/Cartorio_CRUD/Views/Home/Privacy.cshtml]
+[C:/Users/artur/OneDrive/Documents/GitHub/TrabalhoFavan/Cartorio/Cartorio_CRUD/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/Crud/Cartorio_CRUD/Cartorio_CRUD/Views/Registro/Cadastrar.cshtml]
+[C:/Users/artur/OneDrive/Documents/GitHub/TrabalhoFavan/Cartorio/Cartorio_CRUD/Views/Registro/Cadastrar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0cm9cQ2FkYXN0cmFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/Crud/Cartorio_CRUD/Cartorio_CRUD/Views/Registro/Editar.cshtml]
+[C:/Users/artur/OneDrive/Documents/GitHub/TrabalhoFavan/Cartorio/Cartorio_CRUD/Views/Registro/Editar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0cm9cRWRpdGFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/Crud/Cartorio_CRUD/Cartorio_CRUD/Views/Registro/Excluir.cshtml]
+[C:/Users/artur/OneDrive/Documents/GitHub/TrabalhoFavan/Cartorio/Cartorio_CRUD/Views/Registro/Excluir.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0cm9cRXhjbHVpci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/Crud/Cartorio_CRUD/Cartorio_CRUD/Views/Registro/Index.cshtml]
+[C:/Users/artur/OneDrive/Documents/GitHub/TrabalhoFavan/Cartorio/Cartorio_CRUD/Views/Registro/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0cm9cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/Crud/Cartorio_CRUD/Cartorio_CRUD/Views/Shared/Error.cshtml]
+[C:/Users/artur/OneDrive/Documents/GitHub/TrabalhoFavan/Cartorio/Cartorio_CRUD/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/Crud/Cartorio_CRUD/Cartorio_CRUD/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/artur/OneDrive/Documents/GitHub/TrabalhoFavan/Cartorio/Cartorio_CRUD/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/Crud/Cartorio_CRUD/Cartorio_CRUD/Views/_ViewImports.cshtml]
+[C:/Users/artur/OneDrive/Documents/GitHub/TrabalhoFavan/Cartorio/Cartorio_CRUD/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/Crud/Cartorio_CRUD/Cartorio_CRUD/Views/_ViewStart.cshtml]
+[C:/Users/artur/OneDrive/Documents/GitHub/TrabalhoFavan/Cartorio/Cartorio_CRUD/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/Crud/Cartorio_CRUD/Cartorio_CRUD/Views/Shared/_Layout.cshtml]
+[C:/Users/artur/OneDrive/Documents/GitHub/TrabalhoFavan/Cartorio/Cartorio_CRUD/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-cx069mflyl

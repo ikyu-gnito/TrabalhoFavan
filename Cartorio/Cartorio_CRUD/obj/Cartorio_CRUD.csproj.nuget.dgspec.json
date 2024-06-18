@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\Crud\\Cartorio_CRUD\\Cartorio_CRUD\\Cartorio_CRUD.csproj": {}
+    "C:\\Users\\artur\\OneDrive\\Documents\\GitHub\\TrabalhoFavan\\Cartorio\\Cartorio_CRUD\\Cartorio_CRUD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\Crud\\Cartorio_CRUD\\Cartorio_CRUD\\Cartorio_CRUD.csproj": {
+    "C:\\Users\\artur\\OneDrive\\Documents\\GitHub\\TrabalhoFavan\\Cartorio\\Cartorio_CRUD\\Cartorio_CRUD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Crud\\Cartorio_CRUD\\Cartorio_CRUD\\Cartorio_CRUD.csproj",
+        "projectUniqueName": "C:\\Users\\artur\\OneDrive\\Documents\\GitHub\\TrabalhoFavan\\Cartorio\\Cartorio_CRUD\\Cartorio_CRUD.csproj",
         "projectName": "Cartorio_CRUD",
-        "projectPath": "C:\\Users\\User\\Desktop\\Crud\\Cartorio_CRUD\\Cartorio_CRUD\\Cartorio_CRUD.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Crud\\Cartorio_CRUD\\Cartorio_CRUD\\obj\\",
+        "projectPath": "C:\\Users\\artur\\OneDrive\\Documents\\GitHub\\TrabalhoFavan\\Cartorio\\Cartorio_CRUD\\Cartorio_CRUD.csproj",
+        "packagesPath": "C:\\Users\\artur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\artur\\OneDrive\\Documents\\GitHub\\TrabalhoFavan\\Cartorio\\Cartorio_CRUD\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\artur\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -80,7 +80,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
